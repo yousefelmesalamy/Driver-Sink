@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>material/hud-ui-gui-futuristic-user-interface-screen-elements-high-tech-screen-for-video-game-sci-fi-concept-design-vector.jpg</file>
+    <file>material/photo-1553095066-5014bc7b7f2d.jfif</file>
+    <file>material/user.png</file>
+  </qresource>
+</RCC>
